@@ -18,7 +18,7 @@
 - 💻 Languages: `Java`, `SQL`
 - ⚙️ Backend: `JDBC`, `Servlet`, `JSP`, `Hibernate`, `Spring Boot`
 - 🗄️ Database: `MySQL`
-- 🔧 Tools: `Git`, `GitHub`, `Eclipse`, `IntelliJ IDEA`, `Postman`
+- 🔧 Tools: `Git`, `GitHub`,`Maven`,`Junit`, `Eclipse`, `IntelliJ IDEA`, `Postman`
 - 🌐 Web Basics: `HTML`, `CSS`
 
 ---
