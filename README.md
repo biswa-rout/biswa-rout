@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm an MCA graduate with a strong interest in **Java Backend Development**
-- 🌱 Currently learning **Spring Boot**, **Hibernate**, and improving my **SQL** skills
+- 🌱 Currently learning **Spring Boot**, **Microservices**, and improving my **SQL** skills
 - 💻 I love solving real-world problems through clean and maintainable code
 - 🤝 Looking for opportunities to contribute to real-time projects and join a great development team
 - 📫 You can reach me at **r.biswa.rout@gmail.com**
@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack
 
 - 💻 Languages: `Java`, `SQL`
-- ⚙️ Backend: `JDBC`, `Servlet`, `JSP`, `Hibernate`, `Spring Boot`
+- ⚙️ Backend: `Spring Boot`,`Hibernate`,`Microservices`,`Restful API`
 - 🗄️ Database: `MySQL`
 - 🔧 Tools: `Git`, `GitHub`,`Maven`,`Junit`, `Eclipse`, `IntelliJ IDEA`, `Postman`
 - 🌐 Web Basics: `HTML`, `CSS`
