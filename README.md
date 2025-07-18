@@ -19,7 +19,7 @@
 - ⚙️ Backend: `Spring Boot`,`Hibernate`,`Microservices`,`Restful API`
 - 🗄️ Database: `MySQL`
 - 🔧 Tools: `Git`, `GitHub`,`Maven`,`Junit`, `Eclipse`, `IntelliJ IDEA`, `Postman`
-- 🌐 Web Basics: `HTML`, `CSS`
+- 🌐 Web Basics: `HTML`, `CSS`,`Jav Script`
 
 ---
 
